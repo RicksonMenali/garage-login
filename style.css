@@ -111,6 +111,7 @@ form > input[type=submit] {
     font-weight: bolder;
     border-radius: 5px;
     cursor: pointer;
+    border: 2px solid black;
     
 }
 form > input[type=submit]:hover {
